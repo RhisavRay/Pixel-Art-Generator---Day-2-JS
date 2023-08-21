@@ -62,3 +62,9 @@ input[type="color"]
     border: none;
     cursor: pointer;
 }
+
+input[type="color"]::-webkit-color-swatch
+{
+    border-radius: 8px;
+    border: 4px solid #000;
+}
