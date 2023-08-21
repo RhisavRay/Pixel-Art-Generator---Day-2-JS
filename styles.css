@@ -81,3 +81,8 @@ input[type="color"]::-moz-color-swatch
     width: 1em;
     border: 1px solid #DDD;
 }
+
+.gridRow
+{
+    display: flex;
+}
