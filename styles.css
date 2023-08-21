@@ -50,3 +50,15 @@ button
     border-radius: 5px;
     color: #FFF;
 }
+
+input[type="color"]
+{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background-color: transparent;
+    width: 70px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
