@@ -43,3 +43,10 @@ span
     gap: 10px;
 }
 
+button
+{
+    background-color: #43A047;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+}
